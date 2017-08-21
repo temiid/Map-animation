@@ -38,7 +38,7 @@ div.second {
     border: 0.2px solid rgba(255,255,255,0.3);
     box-shadow: 1px 1px 0.5px rgba(0,0,0,0.2);
     background: rgba(244, 67, 54,0.15);
-    animation: expand 2.5s ease-out infinite;
+    animation: expand 3.5s ease-out infinite;
    
 }
 
